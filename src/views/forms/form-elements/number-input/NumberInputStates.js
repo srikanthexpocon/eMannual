@@ -20,7 +20,7 @@ const NumberInputStates = () => {
           </Col>
           <Col md='6'>
             <Label for='readonly-number-input'>Readonly Number Input</Label>
-            <NumberInput readonly id='readonly-number-input' />
+            <NumberInput readOnly id='readonly-number-input' />
           </Col>
         </Row>
       </CardBody>
