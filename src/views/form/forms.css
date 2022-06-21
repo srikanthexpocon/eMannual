@@ -1,0 +1,10 @@
+.heading-color{
+    color: #7367f0;
+    font-weight: bold !important;
+    text-transform: uppercase;
+}
+
+.mandatory-heading{
+    color:rgba(245, 35, 35, 0.87);
+    font-weight: bolder;
+}
